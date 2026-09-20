@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Matthew, a beginner software developer currently studying for a BTS SIO (Services Informatiques aux Organisations -> IT Services for Organizations) with a focus on SLAM (Solutions Logicielles et Applications Métiers -> Software Solutions and Business Applications).<br><br>💻 I’m just starting my journey in the world of coding and technology, and I’m eager to learn and grow. I’m excited to explore new areas like web development, software engineering, and eventually dive into more advanced topics.<br><br>🚀 My GitHub is a space where I share my small projects and experiments as I build my skills. I’m here to learn, make mistakes, and improve step by step.<br><br>🌟 If you have any advice, resources, or opportunities for a beginner like me, I’d love to hear from you! Let’s connect and grow together.<br><br>Thanks for stopping by! 😊
+👋 Hi, I'm Matthew, an engineering student at ESIEE Paris (Computer Science & Applications track), currently in my 4th year.<br><br>💻 I'm also an apprentice software engineer at Groupama Supports & Services, working on Microsoft 365 solutions - building SharePoint/Powell widgets, intranet sites, and internal web apps with React, TypeScript, and SPFx.<br><br>🚀 My GitHub is a space where I share my projects and experiments as I keep building my skills, from front-end apps to game logic and ray tracing exercises.<br><br>🌱 Always happy to connect, share advice, or talk about dev, UI/UX, and web technologies!<br><br>Thanks for stopping by! 😊
 
 
 # 💻 Tech Stack:
@@ -28,11 +28,3 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img align="right" src="https://profile-counter.glitch.me/Arkiora/count.svg?"  />
-
-###
